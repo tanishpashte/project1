@@ -60,12 +60,13 @@ html, body{
     font-weight: 500;
     padding: 5px 10px;
     border-radius: 50px;
+    background-color: white;
 }
 
 #btn2{
     color: white;
-    background-color: orangered;
-    border: none;
+    background-color: orangered !important;
+    border: none !important;
 }
 
 #main>h1{
